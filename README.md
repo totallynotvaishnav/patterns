@@ -17,3 +17,14 @@
 ![Image of eight pattern](https://1.bp.blogspot.com/-PaCVV_pkQic/XS9IYYq1I1I/AAAAAAAAA6w/C8gZN-QPgawc7n9BshZk-YuLYlASQgXSACLcBGAs/s400/18.png)
 ### Pattern 9
 ![Image of ninth pattern](https://1.bp.blogspot.com/-o_ZWR4IRoLk/X3roS1R-fZI/AAAAAAAAAxw/acgY_gqLXywIdNNgHIGjx6RU_C6_pmGSgCNcBGAsYHQ/s0/Binary_Number_Triangle_Pattern.png)
+### Pattern 10
+![Image of tenth pattern](https://quescol.com/wp-content/uploads/2020/04/solid-rhombus-right-inclined.jpg)
+### Pattern 11
+![Image of eleventh pattern](https://code4coding.com/wp-content/uploads/2018/12/numberpyramidpattern4.jpg)
+### Pattern 12
+![Image of twelfth pattern](https://i2.wp.com/code4coding.com/wp-content/uploads/2018/10/pattern1pyramid.jpg?resize=266%2C238&ssl=1)
+### Pattern 13
+![Image of thirteenth pattern](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhFC_dWd1HwodMSrYwVPbSfHwCOdSu8QIytA&usqp=CAU)
+### Pattern 14
+![Image of fourteenth pattern](https://www.tutorialride.com/images/cpp-pattern-programs/que-diamond-pattern.jpeg)
+
